@@ -1,4 +1,3 @@
-```tsx
 const features = [
   {
     title: "AI Captions",
@@ -439,4 +438,3 @@ export default function Home() {
     </main>
   );
 }
-```
